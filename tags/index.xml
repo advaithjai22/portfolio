@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Advaith Jaishankar</title>
-    <link>https://example.com/tags/</link>
+    <link>https://advaithjai22.github.io/portfolio/tags/</link>
     <description>Recent content in Tags on Advaith Jaishankar</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://advaithjai22.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Css</title>
-      <link>https://example.com/tags/css/</link>
+      <link>https://advaithjai22.github.io/portfolio/tags/css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/css/</guid>
+      <guid>https://advaithjai22.github.io/portfolio/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>https://example.com/tags/html/</link>
+      <link>https://advaithjai22.github.io/portfolio/tags/html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/html/</guid>
+      <guid>https://advaithjai22.github.io/portfolio/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>https://example.com/tags/markdown/</link>
+      <link>https://advaithjai22.github.io/portfolio/tags/markdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/markdown/</guid>
+      <guid>https://advaithjai22.github.io/portfolio/tags/markdown/</guid>
       <description></description>
     </item>
   </channel>
